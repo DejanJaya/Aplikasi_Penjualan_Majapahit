@@ -1,0 +1,28 @@
+--admin
+email = admin@gmail.com
+password = 12345
+
+--customer
+email = customer@gmail.com
+password = 12345678
+
+login = localhost:8000/login
+
+-admin
+manajemen user 
+manajemen hadiah
+history transaksi customer
+add produk
+
+-customer
+transaksi produk
+history transaksi customer
+point dan daftar hadiah yang bisa ditukar
+
+REST API di ApiController
+url rest api point dan daftar hadiah yang bisa ditukar
+localhost:8000/api/hadiah
+localhost:8000/api/point
+
+
+
